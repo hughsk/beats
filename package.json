@@ -1,0 +1,19 @@
+{
+  "name": "beats",
+  "description": "A naive but generic beat-detection module.",
+  "version": "0.0.0",
+  "main": "index.js",
+  "browser": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://github.com/hughsk)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/beats"
+  },
+  "bugs": {
+    "url": "https://github.com/hughsk/beats/issues"
+  }
+}
